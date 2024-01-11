@@ -4,3 +4,7 @@ const info={
     h2:"segundo titulo",
     descripción:"Lorem ipsum",
 }
+
+module.exports = {
+    info,
+};
